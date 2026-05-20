@@ -1,0 +1,13 @@
+:root {
+  --lightmode-cyan: #EDF7FA;
+  --lightmode-red: #FF6464;
+  --lightmode-cyan2: #4B898F;
+  --darkmode-1: #101112;
+  --darkmode-2: #22232B;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
