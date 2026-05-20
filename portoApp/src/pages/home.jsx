@@ -14,7 +14,7 @@ import JS from '../assets/js.svg'
 import Laravel from '../assets/laravel.svg'
 import PHP from '../assets/php.svg'
 import VueJS from '../assets/vuejs.svg'
-import IbisPaintX from '../assets/ibispaintx.png'
+import IbisPaintX from '../assets/Ibispaintx.png'
 
 function Home({ darkMode }) {
   const mainBg = darkMode ? 'bg-[var(--darkmode-1)] text-white' : ''
